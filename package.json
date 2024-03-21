@@ -1,0 +1,34 @@
+{
+  "name": "temporibusvoluptatem",
+  "version": "1.0.0",
+  "description": "A simple project containing a few QOL utils for TypeScript",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "files": [
+    "lib/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdaLind/temporibusvoluptatem.git"
+  },
+  "keywords": [
+    "calionvarduk",
+    "frl",
+    "quia",
+    "mollitia"
+  ],
+  "author": "KarsonGoldner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdaLind/temporibusvoluptatem.git/issues"
+  },
+  "homepage": "https://github.com/EdaLind/temporibusvoluptatem.git",
+  "devDependencies": {
+    "@types/jest": "25.1.3",
+    "coveralls": "3.0.3",
+    "jest": "25.1.0",
+    "ts-jest": "25.2.1",
+    "tslint": "5.16.0",
+    "typescript": "3.1.6"
+  }
+}
